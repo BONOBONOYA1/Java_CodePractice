@@ -1,0 +1,14 @@
+public class CodeTest1 {
+    public static void main(String[] args) {
+
+            int num = 3;
+            String A = "Even";
+            String B = "Odd";
+            if(num%2 == 0) {
+                System.out.println(A);
+            } else {
+                System.out.println(B);
+            }
+            }
+        }
+
